@@ -78,7 +78,7 @@ opentelemetry-instrumentation==0.59b0
 opentelemetry-proto==1.38.0
 opentelemetry-sdk==1.38.0
 opentelemetry-semantic-conventions==0.59b0
-orjson==3.11.4
+orjson==3.11.6
 packaging==25.0
 pillow==12.1.1
 Pint==0.25.2
