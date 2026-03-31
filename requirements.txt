@@ -80,7 +80,7 @@ opentelemetry-sdk==1.38.0
 opentelemetry-semantic-conventions==0.59b0
 orjson==3.11.6
 packaging==25.0
-pillow==11.2.1
+pillow==11.3.0
 Pint==0.25.2
 pipecat==0.3.0
 pipecat-ai[local,whisper,openai]==0.0.95
@@ -93,8 +93,8 @@ PyAudio==0.2.14
 pycparser==2.23
 pydantic==2.12.4
 pydantic_core==2.41.5
-Pygments==2.19.2
-PyJWT==2.10.1
+Pygments==2.20.0
+PyJWT==2.12.0
 pyloudnorm==0.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
