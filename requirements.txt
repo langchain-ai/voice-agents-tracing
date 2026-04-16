@@ -80,7 +80,7 @@ opentelemetry-sdk==1.38.0
 opentelemetry-semantic-conventions==0.59b0
 orjson==3.11.6
 packaging==25.0
-pillow==11.3.0
+pillow==12.1.1
 Pint==0.25.2
 pipecat==0.3.0
 pipecat-ai[local,whisper,openai]==0.0.95
